@@ -1,0 +1,29 @@
+there are different commands of git
+1 git init ..... these commands are git initialization chick the status of the git on the local repositories
+git init
+2 git status commands these commands are 
+4 git add <file or foldername> these command is move file from working stage to staging <i class="fa fa-area-chart
+" aria-hidden="true"></i>
+
+5 git commit command
+these command is used to save files
+git commit -m "these is commit"
+6 git push command these cmd is used to move local repo to remote repo
+git push  'remote_name' 'branch_name'
+
+7 git checkout ...... these is command is used to  switch repositories
+
+git checkout master 
+git checkout main 
+
+
+// to create new 
+
+
+git checkout -b "future repo"
+....these means create repo in the github page 
+
+
+
+
+
